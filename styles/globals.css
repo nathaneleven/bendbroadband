@@ -2,7 +2,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: Montserrat, Helvetica Neue, sans-serif;
+  font-family: "Museo Sans", sans-serif;
 }
 
 a {
@@ -15,5 +15,6 @@ a {
 }
 
 h1, h2{
+  font-family: "Museo W01";
   color:#444444;
 }
